@@ -165,3 +165,5 @@ cardio_train.csv
 ml-25m
 ml-latest
 original_data
+experiment_tiny_data
+experiment_small_data
